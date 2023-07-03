@@ -11,9 +11,16 @@
 	
 <style type="text/css">
 
-form,h3 {
+form {
 position: absolute;
 top: 30%;
+left: 33%;
+right: 33%;
+}
+
+h3 {
+position: absolute;
+top: 20%;
 left: 33%;
 right: 33%;
 }
